@@ -37,6 +37,12 @@
   height: 70vh;
 }
 
+@media (max-width: 767px){
+  .lottie{
+    height: 50vh;
+  }
+}
+
 .footer-img{
   height: 2vmin;
   align-items: center;
