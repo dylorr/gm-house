@@ -20,7 +20,7 @@ export default function App() {
     return (
         <section>
             <div>
-                <Lottie options={defaultOptions} height={400} width='100%'/>
+                <Lottie options={defaultOptions} height='50%' width='100%'/>
             </div>
         </section>
       
