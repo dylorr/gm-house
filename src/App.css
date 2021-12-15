@@ -38,9 +38,9 @@
   height: 70vh;
 }
 
-@media (max-width: 767px){
+@media (max-width: 800px){
   .lottie{
-    height: 50vh;
+    height: 40vh;
   }
 }
 
