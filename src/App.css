@@ -21,8 +21,27 @@
   text-align: center;
 }
 
+@media (max-width: 767px){
+  .footer{
+    margin-top: 1rem;
+    background-color: rgb(252, 215, 96);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Zilla Slab', serif;
+  }
+
+}
+
 .footer-img{
   height: 2vmin;
+  align-items: center;
+}
+
+@media (max-width: 767px){
+  .footer-img{
+    height: 4vmin;
+  }
 }
 
 html {
@@ -54,6 +73,16 @@ a{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media (max-width: 767px){
+  .social-button {
+    height: 15vmin;
+    transition: 0.5s !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .social-button:hover {
