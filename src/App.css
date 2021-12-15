@@ -33,6 +33,10 @@
 
 }
 
+.lottie{
+  height: 70vh;
+}
+
 .footer-img{
   height: 2vmin;
   align-items: center;
@@ -60,6 +64,7 @@ a{
   padding-left: 10px;
 }
 .two-buttons{
+  margin-top: -10%;
   display: flex !important;
   padding-left: 10px;
   align-items: center;
@@ -68,7 +73,7 @@ a{
 }
 
 .social-button {
-  height: 5vmin;
+  height: 6.5vmin;
   transition: 0.5s !important;
   display: block;
   margin-left: auto;
