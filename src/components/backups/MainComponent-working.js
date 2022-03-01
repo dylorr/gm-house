@@ -11,7 +11,7 @@ function Main(){
                 <div class ='container'>
                     <div>
                         <img className= 'Home-logo ' src={logo} alt="Logo" />
-                        <a href = {'https://discord.gg/bRc9DRbf'}>
+                        <a href = {'https://discord.gg/gmhouse'}>
                             <img className= 'row text-center discord' src={discord} alt="discord" href = 'https://discord.gg/bRc9DRbf'/>
                         </a>
                     </div>
