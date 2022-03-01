@@ -11,7 +11,7 @@ export default function Social() {
     return (
         <section>
             <div className= 'two-buttons'> 
-                <a href = {'https://discord.gg/bRc9DRbf'}>
+                <a href = {'https://discord.gg/gmhouse'}>
                     <img className= 'social-button' src={discord} alt="discord"/>  
                 </a>
                 <a href = {'https://twitter.com/gmhouseofficial'}>
